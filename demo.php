@@ -59,4 +59,5 @@ SMTP服务器（端口465或587）。
 	<input type="text" name="title"/>
 	<textarea name="content"></textarea>
 	<input type="submit" name="dosub"/>
+
 </form>
